@@ -1,0 +1,10 @@
+﻿START;Rozpocznij Benchmark
+EXIT;Wyjście
+POLISH;Język polski
+ENGLISH;Język angielski
+SCORE;Wynik 
+TIME;Czas 
+RESULT;Wynik:
+AVG_FPS;Średnia liczba klatek na sekundę : 
+RESULT_NULL;Jeszcze nie przeprowadziłeś testu!
+RESULT_NULL2;Najpierw przetestuj komputer.

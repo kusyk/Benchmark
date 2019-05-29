@@ -1,0 +1,10 @@
+﻿START;Run Benchmark
+EXIT;Exit
+POLISH;Polish
+ENGLISH;English
+SCORE;Score 
+TIME; Time 
+RESULT;Result:
+AVG_FPS;Average FPS : 
+RESULT_NULL;You haven't done the test yet
+RESULT_NULL2;Do the test at first!
